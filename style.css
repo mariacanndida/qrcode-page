@@ -1,0 +1,31 @@
+.container {
+    background-color: white;
+    width: 15rem; 
+    padding: 1rem;
+    border-radius: 15px;
+    font-family: 'Outfit', sans-serif;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.image{
+    width:15rem;
+    border-radius: 5px;
+}
+
+.title{
+   font-weight: 700;
+}
+
+.subtitle{
+    font-size: 13px;
+}
